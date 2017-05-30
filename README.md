@@ -53,4 +53,5 @@ adicione ao final do arquivo:
 Observações:
 
    Entre outros, os servidores DNS 8.8.8.8 e 8.8.4.4 bloqueiam o recebimento de ping constantes, então escolha com cuidado quem você irá pingar. Recomenda-se pingar para algum IP válido na internet ou o gatewall da sua rede interna.
-   Este script pode ser usado em inúmeras situações, por exemplo: tendo doi
+   Este script pode ser usado em inúmeras situações, por exemplo: tendo dois links com a internet se um ficar indisponível podemos chamar outro script que configure o link de backup.
+   Arquivos de sons: referência: https://www.vivaolinux.com.br/script/Musiquinhas-com-beep.
