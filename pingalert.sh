@@ -86,6 +86,10 @@ if ! ping -c 1 $IPdoServidor >/dev/null; then
 		"$local_pingalert"/bip.sh bip4
 		sleep 3
 		loop_ping
+	else
+		echo "Servidor ativo!!!"
+        	rm -rf /tmp/pingalert.tmp
+		exit 1	
 	fi
 else
 	echo "Servidor ativo!!!"
