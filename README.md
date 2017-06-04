@@ -16,7 +16,7 @@ Usamos o Debiam 8 e o procedimento de instalação será com base nesta distribu
 
     sudo nano /root/scripts/pingalert/bip.sh
 
-Adicione o conteúdo do arquivo baixado bip.sh.
+Adicione o conteúdo do arquivo baixado: "bip.sh".
 
 Para efetuar testes e verificar se algum som será tocado temos os seguintes comando:
 
@@ -34,7 +34,7 @@ Caso algum cooperador tenha talento e tempo para aperfeiçoar e criar novos sons
 
     sudo nano /root/scripts/pingalert/pingalert.sh
 
-Adicione o conteúdo do arquivo baixado pingalert.sh.
+Adicione o conteúdo do arquivo baixado: "pingalert.sh".
 
 Comportamento do script:
 
